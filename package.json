@@ -1,0 +1,15 @@
+{
+  "name": "rpm-sensor",
+  "version": "1.0.0",
+  "description": "RPM sensor as a Signal K plugin",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Mikko Vesikkala",
+  "license": "MIT",
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "dependencies": {
+    "onoff": "5.0.1"
+  }
+}
